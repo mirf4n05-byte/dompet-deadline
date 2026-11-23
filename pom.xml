@@ -1,0 +1,7 @@
+New-Item -ItemType Directory -Force -Path `
+  "src\main\java\com\dompetdeadline\model", `
+  "src\main\java\com\dompetdeadline\repository", `
+  "src\main\java\com\dompetdeadline\service", `
+  "src\main\java\com\dompetdeadline\view", `
+  "src\test\java\com\dompetdeadline\service", `
+  "docs"
